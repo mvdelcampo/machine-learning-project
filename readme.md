@@ -12,7 +12,7 @@
 | María Victoria del Campo | victoria.delcampo@cunef.edu |
 | Alicia Plaza | alicia.plaza@cunef.edu |
 
-**GitHub repository:** [https://github.com/mvdelcampo/machine-learning-project]
+**GitHub repository:** https://github.com/mvdelcampo/machine-learning-project
 
 # **1. Business Problem Description**
 
