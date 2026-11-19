@@ -39,7 +39,7 @@ Wishal and Sahara, *Predicting Multi-Drug Resistance in Bacterial Isolates Throu
 > ***Can the resistance status of ciprofloxacin be estimated from the susceptibility profiles of other antibiotics, bacterial species, and patient clinical features?***
 
 - **Learning paradigm:** supervised binary classification
-- **Target (y):** `CIP`, with **R (Resistent) = 1** and **S (Susceptible) = 0** for this initial definition.
+- **Target (y):** `CIP`, with **R (Resistant) = 1** and **S (Susceptible) = 0** for this initial definition.
 - **Candidate features (X):** results from the remaining **14 antibiotics**, plus `Age`, `Gender`, `Souches`, `Diabetes`, `Hypertension`, `Hospital_before`, `Infection_Freq`.
 - **Leakage guard:** neither `CIP` nor any feature calculated from CIP (such as MDR labels that include CIP) may enter X.
 
